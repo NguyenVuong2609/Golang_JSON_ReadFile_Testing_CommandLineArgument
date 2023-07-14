@@ -1,0 +1,5 @@
+{"name":"Vuong","age":29,"gender":true}
+{"name":"Chuan","age":30,"gender":true}
+{"name":"Son","age":32,"gender":true}
+{"name":"Yen","age":30,"gender":false}
+{"name":"Thu","age":25,"gender":false}
